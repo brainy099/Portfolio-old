@@ -1,0 +1,11 @@
+.link-img:hover {
+  text-decoration: none;
+}
+
+.img-li {
+  transition: transform 0.2s;
+}
+
+.img-li:hover {
+  transform: scale(1.1);
+}
